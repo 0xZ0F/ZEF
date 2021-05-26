@@ -1,0 +1,7 @@
+﻿TODO:
+Process and module info buttons.
+
+
+Get by PID input.
+Check/hand for multiple procs returned.
+Sanitize and warn about proc extension (.exe).
